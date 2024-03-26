@@ -16,3 +16,4 @@
 ### References:
 - https://keras.io/examples/vision/captcha_ocr/
 - https://github.com/GitYCC/crnn-pytorch
+- https://docs.opencv.org/4.x/d8/ddc/classcv_1_1dnn_1_1TextDetectionModel__EAST.html

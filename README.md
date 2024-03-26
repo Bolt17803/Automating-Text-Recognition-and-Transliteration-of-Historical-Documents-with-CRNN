@@ -13,6 +13,7 @@
 
 - To train the generic model I had used the famous IAM words dataset, it is composed of handwritten English words extracted from documents, specifically the IAM Handwriting Database, which contains forms of handwritten English text. I used the regular architecture of CRNN with first feww conv2d layers followed by 2 bidirectional LSTM's, and the CTC layer. I have used the CTC loss for training the CRNN model and accuracy as the metric to know the model performance.
 
+- to download the frozen east model pretrained model, download from here - https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV/blob/master/frozen_east_text_detection.pb
 ### References:
 - https://keras.io/examples/vision/captcha_ocr/
 - https://github.com/GitYCC/crnn-pytorch
